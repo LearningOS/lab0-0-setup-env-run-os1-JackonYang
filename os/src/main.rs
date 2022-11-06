@@ -1,6 +1,9 @@
 #![no_std]
+#![no_main]  // no main func
 
+mod lang_items;
 
-fn main() {
+// dead code
+// fn main() {
     // println!("Hello, world!");
-}
+// }
